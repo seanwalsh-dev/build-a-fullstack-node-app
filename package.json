@@ -1,0 +1,21 @@
+{
+  "name": "build-a-fullstack-node-app-main",
+  "version": "1.0.0",
+  "description": "Following along Scrimba's node.js course",
+  "homepage": "https://github.com/seanwalsh-dev/build-a-fullstack-node-app#readme",
+  "bugs": {
+    "url": "https://github.com/seanwalsh-dev/build-a-fullstack-node-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanwalsh-dev/build-a-fullstack-node-app.git"
+  },
+  "license": "ISC",
+  "author": "Sean Walsh",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
